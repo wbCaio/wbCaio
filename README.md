@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm c4io</h1>
-<h3 align="center">A passionate FiveM developer.</h3>
+<h3 align="center">A passionate human!</h3>
 
-- 🔭 I’m currently working on my server **13 Community**
+- 🔭 I’m currently working on me!
 
 - 🌱 I’m currently learning **Lua, Css, Html, mysql, and basic JavaScript.**
 
